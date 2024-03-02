@@ -1,0 +1,17 @@
+Six Little Words (Scala)
+Partial Words:
+DO OR SN AKE
+FA IR CH AIR
+LA KE BE ACH
+
+Hints:
+1. Open me
+2. I slither
+3. A carnival
+4. Sit on this
+5. Fresh water body
+6. Sand and sun
+
+Answer Key:
+DOOR SNAKE FAIR
+CHAIR LAKE BEACH
